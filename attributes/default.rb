@@ -3,4 +3,4 @@ default["bower"]["local_flag"] = false
 default["bower"]["registry"] = nil
 default["bower"]["path"] = nil
 
-default["bower"]["nodejs"]["version"] = 'v0.10.29'
+default["bower"]["nodejs"]["version"] = 'v0.12.0'
